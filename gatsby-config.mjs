@@ -11,9 +11,9 @@ dotenv.config();
 
 const config = {
   siteMetadata: {
-    siteUrl: 'https://lisbethhamlin.com',
-    title: 'Lisbeth Hamlin',
-    email: 'betsydhamlin@yahoo.com',
+    siteUrl: 'https://suchirk.github.io/reenamanujaart.github.io/',
+    title: 'Reena Manuja Kalra',
+    email: 'reenamanuja@gmail.com',
   },
   jsxRuntime: 'automatic',
   plugins: [
@@ -124,7 +124,7 @@ const config = {
             }
             `,
             output: '/rss.xml',
-            title: 'Lisbeth Hamlin Art Shows',
+            title: 'Reena Manuja Art Shows',
           },
         ],
       },

@@ -1,3 +1,3 @@
-# Lisbeth Hamlin's Art
+# Reena's Art
 
 Art portfolio website
